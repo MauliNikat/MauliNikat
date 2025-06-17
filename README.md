@@ -31,10 +31,10 @@
 
 
 
-![My Skills](https://github-readme-streak-stats.herokuapp.com/?user=sandipmaurya2611)]
+![My Skills](https://github-readme-streak-stats.herokuapp.com/?user=MauliNikat)]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipmaurya2611&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauliNikat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
